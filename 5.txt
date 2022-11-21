@@ -1,0 +1,16 @@
+Steps for crawling the website:
+1.Go to homepage
+2.Create an account
+3.Search for the type of image  you need in website from search bar
+4.If it available in the website:
+       download it from the website
+  else 
+        try changing keywords
+5. if the image is still unavailable then the image is not present
+6. if the image is present download it
+Components Required:
+1.Frontend website
+2.Gallary component
+3.Search component
+4.login/signup
+5.download component
